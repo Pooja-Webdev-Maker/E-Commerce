@@ -11,7 +11,7 @@ function Footer() {
     <div className='footer'>
         <div className="footer-logo">
             <img src={footer_logo} alt="" />
-            <p>SHOPPER</p>
+         <p>ZENTRO<span style={{color :'red'}}>MART</span></p>
         </div>
         <ul className="footer-links">
             <li>Companay</li>
