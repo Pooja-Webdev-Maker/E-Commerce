@@ -11,7 +11,10 @@
 **Tech Stack
 -React.js, React Router
 -Context API / Redux
--TCSS
+-CSS
+
+##Screenshot
+![Home Page](https://github.com/Pooja-Webdev-Maker/E-Commerce/blob/beca6adcb919d719b95e10605ceeeef58b1c0395/home.jpg)
 
 
 
@@ -26,4 +29,4 @@
 
 
 
-https://github.com/Pooja-Webdev-Maker/E-Commerce/blob/beca6adcb919d719b95e10605ceeeef58b1c0395/home.jpg
+
